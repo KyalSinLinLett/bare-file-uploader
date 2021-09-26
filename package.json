@@ -1,0 +1,19 @@
+{
+  "name": "bare-file-uploader",
+  "version": "1.0.0",
+  "description": "barebone file uploader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyalSinLinLett/bare-file-uploader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KyalSinLinLett/bare-file-uploader/issues"
+  },
+  "homepage": "https://github.com/KyalSinLinLett/bare-file-uploader#readme"
+}
